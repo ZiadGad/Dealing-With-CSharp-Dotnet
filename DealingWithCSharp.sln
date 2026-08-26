@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealingWithCSharp", "Dealin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOutKeywords", "RefAndOutKeywords\RefAndOutKeywords.csproj", "{73EE4846-FF48-47DB-86F1-1D6D4DE7ECF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D0DFACDF-29C3-44E5-86A8-B778D287032E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{73EE4846-FF48-47DB-86F1-1D6D4DE7ECF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73EE4846-FF48-47DB-86F1-1D6D4DE7ECF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73EE4846-FF48-47DB-86F1-1D6D4DE7ECF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DFACDF-29C3-44E5-86A8-B778D287032E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DFACDF-29C3-44E5-86A8-B778D287032E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DFACDF-29C3-44E5-86A8-B778D287032E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DFACDF-29C3-44E5-86A8-B778D287032E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

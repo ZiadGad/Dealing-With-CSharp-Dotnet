@@ -1,6 +1,6 @@
 ﻿namespace RefAndOutKeywords;
 
-class Program
+public class Program
 {
     static void Main(string[] args)
     {
@@ -55,7 +55,7 @@ class Program
         return number / divisor;
     }
 
-    static double DivideRef(double number, double divisor, ref bool isSuccessful)
+    public static double DivideRef(double number, double divisor, ref bool isSuccessful)
     {
         if (divisor == 0)
         {
