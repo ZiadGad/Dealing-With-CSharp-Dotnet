@@ -12,3 +12,4 @@
 /Users/ziadgad/Desktop/c#-fundamentals/DealingWithCSharp/RefAndOutKeywords/obj/Debug/net10.0/RefAndOutKeywords.pdb
 /Users/ziadgad/Desktop/c#-fundamentals/DealingWithCSharp/RefAndOutKeywords/obj/Debug/net10.0/RefAndOutKeywords.genruntimeconfig.cache
 /Users/ziadgad/Desktop/c#-fundamentals/DealingWithCSharp/RefAndOutKeywords/obj/Debug/net10.0/ref/RefAndOutKeywords.dll
+/Users/ziadgad/Desktop/c#-fundamentals/DealingWithCSharp/RefAndOutKeywords/obj/Debug/net10.0/RefAndOutKeywords.sourcelink.json
