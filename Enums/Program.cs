@@ -10,6 +10,8 @@ class Program
 
     static void Main(string[] args)
     {
+        EnumFlags.EnumFlag();
+        return;
         while (true)
         {
             Console.WriteLine("Please Select an Option: ");
@@ -21,12 +23,15 @@ class Program
             Console.WriteLine("Please write color name: ");
             string colorName = Console.ReadLine();
 
-            ConsoleColor selectedColor = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), colorName, true); // true is for ignoreCase 
+            ConsoleColor
+                selectedColor =
+                    (ConsoleColor)Enum.Parse(typeof(ConsoleColor), colorName, true); // true is for ignoreCase 
 
             if (selectedOption == "1")
             {
                 Console.BackgroundColor = selectedColor;
-            }else if (selectedOption == "2")
+            }
+            else if (selectedOption == "2")
             {
                 Console.ForegroundColor = selectedColor;
             }
