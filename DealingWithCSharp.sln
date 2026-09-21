@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingApp-RandomValuesGenerator", "TrainingApp-RandomValuesGenerator\TrainingApp-RandomValuesGenerator.csproj", "{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordManager", "PasswordManager\PasswordManager.csproj", "{D011867A-1E78-4686-97BE-226938E45DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D011867A-1E78-4686-97BE-226938E45DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D011867A-1E78-4686-97BE-226938E45DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D011867A-1E78-4686-97BE-226938E45DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D011867A-1E78-4686-97BE-226938E45DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
