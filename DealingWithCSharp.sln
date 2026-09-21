@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{BD99054B-E5A6-48CB-8759-60AAB950627C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingApp-RandomValuesGenerator", "TrainingApp-RandomValuesGenerator\TrainingApp-RandomValuesGenerator.csproj", "{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{BD99054B-E5A6-48CB-8759-60AAB950627C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD99054B-E5A6-48CB-8759-60AAB950627C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD99054B-E5A6-48CB-8759-60AAB950627C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9D2193-D5E8-4E5B-B8AA-D4CC4D9141CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
