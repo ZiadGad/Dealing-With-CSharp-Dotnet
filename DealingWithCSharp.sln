@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordManager", "Password
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{0B04394C-4623-4486-A867-801F1A423908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{8407B3D7-87D8-4199-BE39-45DA1C93F834}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{0B04394C-4623-4486-A867-801F1A423908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B04394C-4623-4486-A867-801F1A423908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B04394C-4623-4486-A867-801F1A423908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
