@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{9ECA3191-CC60-413D-A7DA-FE0562D0F172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnBoxing", "BoxingAndUnBoxing\BoxingAndUnBoxing.csproj", "{45E55ED9-DFCF-466E-A171-E5367805B50B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E55ED9-DFCF-466E-A171-E5367805B50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E55ED9-DFCF-466E-A171-E5367805B50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E55ED9-DFCF-466E-A171-E5367805B50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E55ED9-DFCF-466E-A171-E5367805B50B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
