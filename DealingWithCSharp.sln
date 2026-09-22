@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Extensi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{8407B3D7-87D8-4199-BE39-45DA1C93F834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "VirtualAndOverride\VirtualAndOverride.csproj", "{8702EAB0-3A25-482F-A91A-D0BB3EF60639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8407B3D7-87D8-4199-BE39-45DA1C93F834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
