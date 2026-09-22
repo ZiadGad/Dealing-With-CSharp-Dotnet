@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnBoxing", "Boxing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericListAndDictionary", "GenericListAndDictionary\GenericListAndDictionary.csproj", "{B0ABF448-109C-4159-886A-CE2E70FF064F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAndQueue", "StackAndQueue\StackAndQueue.csproj", "{9C11A7F1-073E-4D94-A169-4EE052555BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{B0ABF448-109C-4159-886A-CE2E70FF064F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0ABF448-109C-4159-886A-CE2E70FF064F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0ABF448-109C-4159-886A-CE2E70FF064F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C11A7F1-073E-4D94-A169-4EE052555BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11A7F1-073E-4D94-A169-4EE052555BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11A7F1-073E-4D94-A169-4EE052555BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11A7F1-073E-4D94-A169-4EE052555BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
