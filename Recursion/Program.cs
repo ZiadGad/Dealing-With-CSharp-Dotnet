@@ -2,6 +2,9 @@
 
 class Program
 {
+    /**
+     * Recursion is very effective when you don't know when to stop going deep.
+     */
     static void Main(string[] args)
     {
         // int f = CalculateFactorial(5);
