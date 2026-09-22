@@ -2,7 +2,7 @@
 
 class Program
 {
-    /*
+    /**
      * Abstract class is a class that is intended to be used as a base class.
      * We can not create an object directly from it.
      * Abstract class can contain (normal methods, fields, constructors, abstract methods, virtual methods etc...)
@@ -20,7 +20,7 @@ class Program
     
     static void Main(string[] args)
     {
-        Dog dog = new Dog();
+        Animal dog = new Dog();
         dog.MakeSound();
         
     }

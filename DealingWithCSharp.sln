@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "Virtu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberHidingOrShadowing", "MemberHidingOrShadowing\MemberHidingOrShadowing.csproj", "{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
