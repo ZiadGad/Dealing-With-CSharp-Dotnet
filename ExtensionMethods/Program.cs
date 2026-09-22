@@ -2,6 +2,13 @@
 
 class Program
 {
+    /**
+     * Extension Methods Requirements
+     *  -   Static class.
+     *  -   Static Function.
+     *  -   First paramenter must have this keyword.
+     *  -   If your Extension methods has a same name of data type instance method, it will execute the instance not the extension.
+     */
     static void Main(string[] args)
     {
         int percentage = -10;
