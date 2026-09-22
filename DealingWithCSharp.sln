@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberHidingOrShadowing", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{9ECA3191-CC60-413D-A7DA-FE0562D0F172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECA3191-CC60-413D-A7DA-FE0562D0F172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
