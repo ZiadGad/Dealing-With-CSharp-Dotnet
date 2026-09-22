@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberHidingOrShadowing", "MemberHidingOrShadowing\MemberHidingOrShadowing.csproj", "{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B9D79F-D3F3-41C3-B4EB-4A48C876AC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AB8722-A9AF-49DD-9D3F-1E772522FFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
