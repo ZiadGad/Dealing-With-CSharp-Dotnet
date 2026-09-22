@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualAndOverride", "VirtualAndOverride\VirtualAndOverride.csproj", "{8702EAB0-3A25-482F-A91A-D0BB3EF60639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8702EAB0-3A25-482F-A91A-D0BB3EF60639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DBB643-6D75-411E-B59B-B7189D2BE5DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
